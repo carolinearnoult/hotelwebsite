@@ -4,7 +4,7 @@
  - Vous diriger dans mon repositrory github
  - cliquer sur le bouton vert "code" en haut à droite
  - copier le liens https
- - ouvrir le terminal de votre editeur de code vscode, vou splacer dans votre dossier et faire un git clone suivi du lien.
+ - ouvrir le terminal de votre editeur de code vscode, vous placer dans votre dossier et faire un git clone suivi du lien.
  - Pour pouvoir retravailler le code vérifiez bien que la dernière version de php est installée 
  et que vous avez également installé XAMPP
  - Vous pouvez visionner le site avec l'url localhost:8000/hotelwebsite ou localhost/hotelwebsite
